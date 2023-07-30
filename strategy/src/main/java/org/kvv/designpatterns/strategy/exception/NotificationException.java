@@ -1,4 +1,4 @@
-package org.kvv.designpatterns.strategy;
+package org.kvv.designpatterns.strategy.exception;
 
 public class NotificationException extends RuntimeException {
 

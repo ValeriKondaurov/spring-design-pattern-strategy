@@ -1,6 +1,6 @@
 package org.kvv.designpatterns.strategy.factories;
 
-import org.kvv.designpatterns.strategy.NotificationException;
+import org.kvv.designpatterns.strategy.exception.NotificationException;
 import org.kvv.designpatterns.strategy.strategies.NotificationService;
 import org.springframework.stereotype.Component;
 
