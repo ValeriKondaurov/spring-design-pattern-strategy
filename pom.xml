@@ -16,6 +16,8 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>strategy</module>
+        <module>abstract-factory</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>
